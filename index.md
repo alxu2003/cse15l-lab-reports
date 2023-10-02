@@ -5,7 +5,7 @@ This is the start of something horrible.
 ## This is the start of something horrible.
 [This is the start of something horrible.
 ](https://2019.makemepulse.com/)	
-![Image](pop-person.png)
+
 >This is the start of something horrible.
 * This is 
 * the start 
@@ -30,3 +30,4 @@ Of
 Something
 Horrible
 ```
+![Image](pop-person.png)
