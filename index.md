@@ -4,7 +4,7 @@ This is the start of something horrible.
 # This is the start of something horrible.
 ## This is the start of something horrible.
 [This is the start of something horrible.
-]([http://a.com](https://2019.makemepulse.com/)https://2019.makemepulse.com/)	
+](https://2019.makemepulse.com/)	
 ![Image](pop-person.png)
 >This is the start of something horrible.
 * This is 
