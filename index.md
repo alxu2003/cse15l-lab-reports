@@ -5,7 +5,7 @@ This is the start of something horrible.
 ## This is the start of something horrible.
 [This is the start of something horrible.
 ]([http://a.com](https://2019.makemepulse.com/)https://2019.makemepulse.com/)	
-![Image](https://poptropica.fandom.com/wiki/Crazy_Comet?file=CrazyComet.png)
+![Image](pop person.png)
 >This is the start of something horrible.
 * This is 
 * the start 
