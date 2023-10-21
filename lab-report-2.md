@@ -1,5 +1,6 @@
 # Lab Report 2 - VSCode and Your Local Machine (Week 3)
 ## Part 1
+
 ```
 import java.io.IOException;
 import java.net.URI;
@@ -38,7 +39,6 @@ class Handler implements URLHandler {
         return "404 Not Found!";
     }
 }
-
 class StringServer {
     public static void main(String[] args) throws IOException {
         if(args.length == 0){
@@ -52,6 +52,7 @@ class StringServer {
     }
 }
 ```
+
 ![Image](Screenshot 2023-10-20 at 6.42.36 PM.png) <br>
 
 The handleRequest method is called to add the String "hi" to the output string. The handleRequest method takes the URL and gets its path. Before the method was called, the ArrayList `list` that stores the final output string was empty.
