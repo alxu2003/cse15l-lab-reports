@@ -1,6 +1,7 @@
 # Lab Report 2 - VSCode and Your Local Machine (Week 3)
 ## Part 1
-```import java.io.IOException;
+```
+import java.io.IOException;
 import java.net.URI;
 import java.util.ArrayList;
 
