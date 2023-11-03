@@ -65,10 +65,10 @@ by one and has "\n1. hi\n2. hello" in it.
 
 ## Part 2
 Path to private key on my computer: <br>
-![Image](Screenshot 2023-10-20 at 7.07.31 PM.png) <br>
+![Image](path to pub.png) <br>
 
 Path to public key on ieng6: <br>
-![Image](Screenshot 2023-10-20 at 7.18.00 PM.png) <br>
+![Image](path to priv.png) <br>
 
 Logging into ieng6 without password: <br>
 ![Image](Screenshot 2023-10-20 at 7.11.56 PM.png) <br>
