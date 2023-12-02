@@ -20,7 +20,7 @@ Keys pressed: `vim ListExamples.java`, then pressed i for insert, then pressed 2
 Keys pressed: `bash test.sh`
 
 ### Step 9
-![Image](Screenshot 2023-11-19 at 1.02.28 PM.png) <br>
+![Image](Screenshot 2023-12-02 at 12.24.40 PM.png) <br>
 Keys pressed: `git add ListExamples.java`, then `git commit`, then i for insert, then "fix bugs", then Esc, then :x, then `git push`
 
 <br><br>Total time: around 5 minutes
