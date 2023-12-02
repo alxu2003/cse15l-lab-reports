@@ -16,7 +16,7 @@ Keys pressed: `cd lab7`, then `bash test.sh`
 Keys pressed: `vim ListExamples.java`, then pressed i for insert, then pressed 2, then pressed <right>, Esc, then x to delete
 
 ### Step 8
-![Image](Screenshot 2023-11-19 at 1.01.32 PM.png) <br>
+![Image](Screenshot 2023-11-19 at 1.01.47 PM.png) <br>
 Keys pressed: `bash test.sh`
 
 ### Step 9
